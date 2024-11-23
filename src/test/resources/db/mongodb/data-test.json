@@ -1,0 +1,76 @@
+[
+  {
+    "id": "97983be2-98b7-11e7-90cf-082e5f28d835",
+    "credential": "apple_credential",
+    "created": "2021-01-10T13:37:17Z",
+    "modified": "2021-01-23T13:37:17Z",
+    "lastSession": "2021-01-23T13:37:17Z",
+    "totalSpent": 100,
+    "totalRefund": 0,
+    "totalTransactions": 5,
+    "lastPurchase": "2021-01-22T13:37:17Z",
+    "activeCampaigns": [],
+    "devices": [{
+      "id": 1,
+      "model": "apple iphone 11",
+      "carrier": "vodafone",
+      "firmware": "123"
+    }],
+    "level": 3,
+    "xp": 1000,
+    "totalPlaytime": 144,
+    "country": "CA",
+    "language": "fr",
+    "birthdate": "2000-01-10T13:37:17Z",
+    "gender": "male",
+    "inventory": {
+      "cash": 123,
+      "coins": 123,
+      "item_1": 1,
+      "item_34": 3,
+      "item_55": 2
+    },
+    "clan": {
+      "id": "123456",
+      "name": "Hello world clan"
+    },
+    "customField": "mycustom"
+  },
+  {
+    "id": "97983be2-98b7-11e7-90cf-082e5f28d834",
+    "credential": "apple_credential",
+    "created": "2021-01-10T13:37:17Z",
+    "modified": "2021-01-23T13:37:17Z",
+    "lastSession": "2021-01-23T13:37:17Z",
+    "totalSpent": 100,
+    "totalRefund": 0,
+    "totalTransactions": 5,
+    "lastPurchase": "2021-01-22T13:37:17Z",
+    "activeCampaigns": [],
+    "devices": [{
+      "id": 1,
+      "model": "apple iphone 14",
+      "carrier": "avantel",
+      "firmware": "123"
+    }],
+    "level": 3,
+    "xp": 1000,
+    "totalPlaytime": 144,
+    "country": "ES",
+    "language": "es",
+    "birthdate": "2000-01-10T13:37:17Z",
+    "gender": "male",
+    "inventory": {
+      "cash": 123,
+      "coins": 123,
+      "item_1": 1,
+      "item_34": 3,
+      "item_55": 2
+    },
+    "clan": {
+      "id": "567891",
+      "name": "The Mavericks"
+    },
+    "customField": "mycustom"
+  }
+]
